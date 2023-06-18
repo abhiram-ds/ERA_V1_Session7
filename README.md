@@ -2,7 +2,7 @@
 Training a Neural Network with MNIST Data
 ===============================================
 
-Training a Model with MNIST data is very simple. It’s basically a classification model to look into the image and predict the handwritten digit accurately.MNIST contains 70,000 images of handwritten digits: 60,000 for training and 10,000 for testing. The images are grayscale, 28x28 pixels, and centered to reduce preprocessing and get started quicker. 
+Training a Model with MNIST data is very simple. It’s basically a classification model to look into the image and predict the handwritten digit accurately. MNIST contains 70,000 images of handwritten digits: 60,000 for training and 10,000 for testing. The images are grayscale, 28x28 pixels, and centered to reduce preprocessing and get started quicker. 
 
 All of us can do it. But to make it a little fun we have added some constraints to it. Let’s understand the model input, output and architecture first before getting into the code. SO here is how the readme has been structured
 
